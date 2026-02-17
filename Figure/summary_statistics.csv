@@ -1,0 +1,15 @@
+Metric,Value
+Data Period,2023-01-01 to 2025-12-01
+Historical Observations,36
+Simulation Paths,10000
+Base Case Trigger Probability,97.7%
+Base Case Expected Payout,9376 CNY
+Base Case Recommended Premium (20%),11251 CNY
+VaR (95%),9802 CNY
+CVaR (95%),9836 CNY
+Mean Trigger Time,16.6 months
+Premium Elasticity w.r.t K,5.45
+Premium Elasticity w.r.t η,0.15
+Recommended K (Balanced),4500 CNY
+Recommended K (Budget),3500 CNY
+Recommended K (Premium),5500 CNY
