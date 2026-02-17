@@ -1,0 +1,128 @@
+{
+  "base_case": {
+    "K": 4500,
+    "eta": 0.3,
+    "C": 10000,
+    "trigger_probability": 0.976,
+    "premium": 11242.354707875485
+  },
+  "elasticities": {
+    "wrt_K": 5.447226234474349,
+    "wrt_eta": 0.15240195330182038
+  },
+  "optimal_K_for_targets": {
+    "0.1": {
+      "K": 3500,
+      "actual_prob": 0.2615,
+      "premium": 2895.9855437145297
+    },
+    "0.25": {
+      "K": 3500,
+      "actual_prob": 0.2615,
+      "premium": 2895.9855437145297
+    },
+    "0.5": {
+      "K": 3500,
+      "actual_prob": 0.2615,
+      "premium": 2895.9855437145297
+    }
+  },
+  "tables": {
+    "varying_K": [
+      {
+        "K": 3500,
+        "trigger_probability": 0.2615,
+        "expected_payoff": 2413.321286428775,
+        "premium_with_loading": 2895.9855437145297
+      },
+      {
+        "K": 4000,
+        "trigger_probability": 0.758,
+        "expected_payoff": 7098.296005625213,
+        "premium_with_loading": 8517.955206750255
+      },
+      {
+        "K": 4500,
+        "trigger_probability": 0.976,
+        "expected_payoff": 9368.628923229571,
+        "premium_with_loading": 11242.354707875485
+      },
+      {
+        "K": 5000,
+        "trigger_probability": 0.999,
+        "expected_payoff": 9847.844452099194,
+        "premium_with_loading": 11817.413342519032
+      },
+      {
+        "K": 5500,
+        "trigger_probability": 1.0,
+        "expected_payoff": 9925.268157086035,
+        "premium_with_loading": 11910.32178850324
+      }
+    ],
+    "varying_eta": [
+      {
+        "eta": 0.1,
+        "trigger_probability": 0.643,
+        "expected_payoff": 6041.444743895868,
+        "premium_with_loading": 7249.733692675041
+      },
+      {
+        "eta": 0.2,
+        "trigger_probability": 0.892,
+        "expected_payoff": 8470.13172190329,
+        "premium_with_loading": 10164.158066283948
+      },
+      {
+        "eta": 0.3,
+        "trigger_probability": 0.976,
+        "expected_payoff": 9368.628923229571,
+        "premium_with_loading": 11242.354707875485
+      },
+      {
+        "eta": 0.4,
+        "trigger_probability": 0.9945,
+        "expected_payoff": 9624.168929880258,
+        "premium_with_loading": 11549.002715856308
+      },
+      {
+        "eta": 0.5,
+        "trigger_probability": 0.9985,
+        "expected_payoff": 9724.356662834853,
+        "premium_with_loading": 11669.227995401823
+      }
+    ],
+    "varying_C": [
+      {
+        "C": 5000,
+        "trigger_probability": 0.9685,
+        "expected_payoff": 4649.080257748412,
+        "premium_with_loading": 5578.896309298094
+      },
+      {
+        "C": 7500,
+        "trigger_probability": 0.9705,
+        "expected_payoff": 6989.443803365744,
+        "premium_with_loading": 8387.332564038892
+      },
+      {
+        "C": 10000,
+        "trigger_probability": 0.976,
+        "expected_payoff": 9368.628923229571,
+        "premium_with_loading": 11242.354707875485
+      },
+      {
+        "C": 12500,
+        "trigger_probability": 0.971,
+        "expected_payoff": 11655.35986330237,
+        "premium_with_loading": 13986.431835962843
+      },
+      {
+        "C": 15000,
+        "trigger_probability": 0.9745,
+        "expected_payoff": 14030.63543046323,
+        "premium_with_loading": 16836.762516555875
+      }
+    ]
+  }
+}

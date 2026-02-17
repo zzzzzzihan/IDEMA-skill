@@ -1,0 +1,22 @@
+{
+  "contract_parameters": {
+    "guarantee_salary_k": 4500,
+    "training_cost_c": 10000,
+    "guarantee_period_t": 36,
+    "waiting_period_w": 3,
+    "discount_rate_r": 0.03,
+    "ai_impact_eta": 0.3,
+    "simulation_months": 60,
+    "n_simulations": 10000
+  },
+  "trigger_probability": 0.9771,
+  "trigger_probability_pct": 97.71,
+  "expected_payoff": 9376.125878142579,
+  "payoff_std": 1444.104380703915,
+  "value_at_risk_95": 9801.98673306755,
+  "conditional_var_95": 9835.597810785985,
+  "risk_loading_rate": 0.2,
+  "fair_premium": 9376.125878142579,
+  "suggested_premium_with_loading": 11251.351053771094,
+  "simulation_timestamp": "2026-02-14T19:20:45.256195"
+}

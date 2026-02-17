@@ -1,0 +1,14 @@
+{
+  "salary_mean_traditional": 5534.9736452967,
+  "salary_mean_ai": 5857.727592986787,
+  "salary_std_traditional": 191.0685390710314,
+  "salary_std_ai": 82.86361366208376,
+  "mu_traditional": -2.8229899828743674,
+  "mu_ai": 1.3066537284843311,
+  "sigma_traditional": 4.8423131193180895,
+  "sigma_ai": 1.5359190965564533,
+  "lambda_mean": 0.20034722222222223,
+  "lambda_max": 0.6988,
+  "lambda_std": 0.17802492680378237,
+  "corr_shock_gap": 0.9991224340858028
+}

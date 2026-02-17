@@ -1,0 +1,13 @@
+Metric,Value
+Trigger Probability,97.7%
+Expected Payout (Fair Premium),9376 CNY
+95% Confidence Interval (Expected),"[9345, 9404] CNY"
+Value at Risk (95%),9802 CNY
+Conditional VaR (95%),9836 CNY
+Mean Trigger Time (months),16.6
+Median Trigger Time (months),15.0
+Max Single Payout,9876 CNY
+Min Single Payout,0 CNY
+Recommended Premium (20% loading),11251 CNY
+Premium Elasticity w.r.t K,5.45
+Premium Elasticity w.r.t η,0.15
